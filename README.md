@@ -55,13 +55,13 @@ We aim to build **fast, clean, and scalable solutions** with modern technologies
 ## 💬 Support Server
 
 <p align="center">
-  <a href="https://discord.gg/xjZAAxnmtF">
+  <a href="https://discord.gg/Z9VYgEhBUE">
     <img src="https://img.shields.io/badge/Discord-Cordix%20Development-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
 🛠 **Support Server Name:** **Cordix Development**  
-📎 **Join here:** https://discord.gg/xjZAAxnmtF  
+📎 **Join here:** https://discord.gg/Z9VYgEhBUE  
 
 ---
 
